@@ -3,5 +3,6 @@
 🌐 **Skills & Expertise:**
 
 ✔ **Networking Basics**  
-✔ **Computer Hardware Basics**  
-🔥**Passionate about Computing**
+✔ **Computer Hardware Basics**
+🔥 **Passionate about Computing**  
+
