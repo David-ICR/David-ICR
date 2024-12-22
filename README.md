@@ -1,6 +1,7 @@
-# Hi, i'm David👋
-✔💻 Integral Intern in Connectivity and Networks
+# 💻 **Integral Intern in Connectivity and Networks**
+
+🌐 **Skills & Expertise:**
+
 ✔ **Networking Basics**  
 ✔ **Computer Hardware Basics**  
 🔥 **Passionate about Computing**
-
