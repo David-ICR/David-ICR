@@ -4,4 +4,4 @@
 
 ✔ **Networking Basics**  
 ✔ **Computer Hardware Basics**  
-🔥 **Passionate about Computing**
+🔥**Passionate about Computing**
