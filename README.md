@@ -4,12 +4,12 @@
 
 ✔ **Networking Basics**  
 ✔ **Computer Hardware Basics**
-✔ **Passionate about Computing**  
+🔥 **Passionate about Computing**  
 
 ---
 
 🚀 **Let's Connect:**  
-- [LinkedIn](#)  
+- 📧 [Email Me](davidisraelcamposrifo@gmail.com) 
 - [GitHub](#)  
 
 
