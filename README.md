@@ -9,7 +9,7 @@
 ---
 
 🚀 **Let's Connect:**  
-- 📧 [Email Me](davidisraelcamposrifo@gmail.com) 
+- 📧 [Email Me](mailto:davidisraelcamposrifo@gmail.com) 
 - [GitHub](#)  
 
 
