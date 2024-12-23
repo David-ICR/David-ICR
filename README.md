@@ -7,7 +7,6 @@
 🔥 **Passionate about Computing**  
 
 
----
 
 🚀 **Let's Connect:**  
 - 📧 [Email Me](mailto:davidisraelcamposrifo@gmail.com) 
