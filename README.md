@@ -2,9 +2,10 @@
 
 🌐 **Skills & Expertise:**
 
+🔥 **Passionate about Computing**  
 ✔ **Networking Basics**  
 ✔ **Computer Hardware Basics**
-🔥 **Passionate about Computing**  
+
 
 ---
 
