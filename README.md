@@ -10,6 +10,6 @@
 
 🚀 **Let's Connect:**  
 - 📧 [Email Me](mailto:davidisraelcamposrifo@gmail.com) 
-- [GitHub](#)  
+- 📸 [Instagram](https://www.instagram.com/david.cr26/)  
 
 
